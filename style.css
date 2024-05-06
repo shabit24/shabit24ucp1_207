@@ -1,0 +1,68 @@
+/* Morning Routine */
+#morning-routine {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  #morning-routine h2 {
+    color: #333;
+  }
+  
+  #morning-routine p {
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  /* Programming Knowledge */
+  #experience {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  #experience h2 {
+    color: #333;
+  }
+  
+  #experience p {
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  /* Exercise */
+  #exercise {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  #exercise h2 {
+    color: #333;
+  }
+  
+  #exercise p {
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  /* Cooking */
+  #cooking {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  #cooking h2 {
+    color: #333;
+  }
+  
+  #cooking p {
+    color: #666;
+    line-height: 1.6;
+  }
+  
